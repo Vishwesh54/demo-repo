@@ -1,0 +1,3 @@
+We can also create files directly in github.
+Then there is no need to do the add command.
+Github handles this by itself , it directly commits.
