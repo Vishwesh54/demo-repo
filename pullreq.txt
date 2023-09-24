@@ -1,0 +1,6 @@
+Step1) Create a New branch 
+Step2) Switch to that branch  
+Step3) Do the required changes , commit and add.
+Step4) Then use git push origin name-of-that-branch  
+Step5) After this step you will see a new notification on the github
+Step6) This is nothing but about the PR itself 
