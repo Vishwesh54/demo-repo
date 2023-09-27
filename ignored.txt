@@ -1,2 +1,0 @@
-This wont be included 
-Do as many changes u want git will ignore it
