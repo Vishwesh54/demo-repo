@@ -1,0 +1,7 @@
+sliding.exe
+# Ignores all the .exe file in every directory # 
+*.exe
+*.txt
+
+#To ignore a new directory#
+Graph/
